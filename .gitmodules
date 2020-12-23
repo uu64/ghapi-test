@@ -1,0 +1,3 @@
+[submodule "ghapi-test"]
+	path = ghapi-test
+	url = https://github.com/uu64/ghapi-test
